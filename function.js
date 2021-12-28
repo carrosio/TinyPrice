@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", async function (e) {
     const tinyPriceAlgo = (await loadPrice()).data
     
     const tinyAmount = 5020 + 20000
-    const USDAmount = 520 + (9 * tinyPriceAlgo[3]) + 318 + 324
+    const USDAmount = (37 * tinyPriceAlgo[3]) + 318 + 280
 
    
     let priceAlgo = Number(tinyPriceAlgo[0].toFixed(4)) + ' ALGO ' 
