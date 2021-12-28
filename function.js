@@ -35,18 +35,6 @@ document.addEventListener("DOMContentLoaded", async function (e) {
 })
 
 
-/* thenano2412@gmail.com
-Clave
-61c9f10048decd000138bc7a
-Secreto
-El secreto de la API no se puede recuperar y se mostrará SOLO una vez. Manténgalo seguro.
-6806aedc-749d-4089-9ca6-9e4b965930ef
-Restricciones de API
-General
-Acceso IP
-Sin límite
- */
-
 
 
 
